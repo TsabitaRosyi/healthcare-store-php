@@ -1,5 +1,13 @@
-# healthcare-store
+# healthcare-store-php
 A PHP and MySQL-based medical equipment store website featuring authentication, product catalog, purchasing system, and automated purchase report delivery via email with transaction details and total payment.
+
+## 💻 Local Development
+
+Run the project locally using XAMPP:
+
+```bash
+http://localhost/tokotsabiphp/adminpanel/home.php
+```
 
 ## 🚀 Features
 - User Authentication
@@ -37,16 +45,19 @@ A PHP and MySQL-based medical equipment store website featuring authentication, 
 ![Login Page](screenshots/login-page.png)
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home.png)
 
 ### Product Page
-![Product Page](screenshots/product-page.png)
+![Product Page](screenshots/produk.png)
 
 ### Shopping Cart Page
-![Cart Page](screenshots/cart-page.png)
+![Cart Page](screenshots/keranjang-page.png)
 
 ### Report Page
-![Report Page](screenshots/report-page.png)
+![Report Page](screenshots/laporan.png)
 
 ### Email Report
-![Email Report](screenshots/email-report.png)
+![Email Report](screenshots/email.png)
+
+### PDF Report
+![Email Report](screenshots/laporan(pdf).png)
